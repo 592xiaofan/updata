@@ -1,1 +1,1 @@
-<banben：2.0><neirong：增加下拉刷新，修复登录超时问题><xiazai：https://raw.githubusercontent.com/592xiaofan/updata/master/base.apk><gonggao：aaa>
+<banben：1.0><neirong：增加下拉刷新，修复登录超时问题><xiazai：https://raw.githubusercontent.com/592xiaofan/updata/master/base.apk><gonggao：aaa>
